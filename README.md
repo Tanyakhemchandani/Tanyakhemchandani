@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Tanya Khemchandani</h1>
-<h3 align="center">Focusing on frontend development and enhancing problem solving skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<h1 align="center">Hello👋, I'm Tanya Khemchandani</h1>
+<h3 align="center">Focusing on frontend development and enhancing problem solving skills. I'm proficient in C++, HTML5 & Javascript</h3>
+<h3 align="center">Building up my techstack further to React, Python, Machine Learning</h3>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyakhemchandani&label=Profile%20views&color=0e75b6&style=flat" alt="tanyakhemchandani" /> </p>
 
